@@ -13,8 +13,8 @@
 ## link
 
 ## Screenshots
-[Budget-Tracker](https://marcoc007.github.io/Budget-Tracker/)
-[budgetracker](https://budgetrack.herokuapp.com)
+* [Budget-Tracker](https://marcoc007.github.io/Budget-Tracker/)
+* [budgetracker](https://budgetrack.herokuapp.com)
 
 
 * App in use: 
