@@ -1,0 +1,26 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "unit-18-web-performance-homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoC007/Budget-Tracker.git"
+  },
+  "author": "",
+  "license": "BSL-1.0",
+  "bugs": {
+    "url": "https://github.com/MarcoC007/Budget-Tracker/issues"
+  },
+  "homepage": "https://github.com/MarcoC007/Budget-Tracker#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.9",
+    "morgan": "^1.10.0"
+  }
+}
